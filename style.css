@@ -1,0 +1,16 @@
+
+
+.jumbotron {
+	background-color: #778899;
+	color: white;
+}
+
+.no-hover {
+	background-color: #b0e0e6;
+	color: white;
+}
+
+.form-group {
+	align-content: center;
+	text-align: justify;
+}
